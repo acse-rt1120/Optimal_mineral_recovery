@@ -1,0 +1,13 @@
+number of units,10
+profit,100
+cost,500
+circuit tol,0.000001
+number of circuit iterations,10000
+crossing probability,0.9
+mutation probability,0.002
+mutate step,1
+num offspring,100
+Genetic Algorithm iter,100
+Genetic Algorithm tol,0.01
+feed gormanium,10
+feed waste,100
